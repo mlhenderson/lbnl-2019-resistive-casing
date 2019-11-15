@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/global/common/software/m3384/resistive_casing/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "resistive_casing",
+ "language": "python"
+}
